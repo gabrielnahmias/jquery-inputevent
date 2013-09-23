@@ -1,12 +1,11 @@
-/*
-    jQuery `input` special event v1.2
-    http://whattheheadsaid.com/projects/input-special-event
-
-    (c) 2010-2011 Andy Earnshaw
-    forked by dodo (https://github.com/dodo)
-    MIT license
-    www.opensource.org/licenses/mit-license.php
-*/
+/*!
+ * jQuery `input` Special Event
+ * Original (ERROR 404): http://whattheheadsaid.com/projects/input-special-event
+ * © 2010-2011 Andy Earnshaw
+ * 
+ * Fork v1.3 © 2013 Gabriel Nahmias (https://github.com/gabrielnahmias/jquery-inputevent)
+ * MIT license: http://www.opensource.org/licenses/mit-license.php
+ */
 (function($, udf) {
     var ns = ".inputEvent ",
         // A bunch of data strings that we use regularly
