@@ -1,8 +1,7 @@
-# jQuery plugin to provide a cross browser oninput event
+# jQuery-inputevent
 
+**A jQuery plugin that provides a cross-browser `oninput` event.**
 
+This is fork of the now-defunct [http://whattheheadsaid.com/projects/input-special-event](http://whattheheadsaid.com/projects/input-special-event) (goes **404**).
 
-this is fork of http://whattheheadsaid.com/projects/input-special-event
-
-
-it fixes some bugs duo changed jquery api.
+It fixes some bugs, etc. Documentation to come!
